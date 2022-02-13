@@ -1,0 +1,19 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =76
+        Size: =20
+        Text: ="APP Colaborativa"
+        Width: =1358
+        X: =3
+        ZIndex: =1
+
+    HtmlText1 As htmlViewer:
+        Height: =666
+        Width: =1363
+        X: =3
+        Y: =102
+        ZIndex: =4
+

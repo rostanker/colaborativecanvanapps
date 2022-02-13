@@ -1,0 +1,32 @@
+{
+  "ClientBuildDetails": {
+    "CommitHash": "6c9ebb8306548b7c0f35fb84f9639c01a25d83b1",
+    "IsLocalBuild": false
+  },
+  "ClientPerFileChecksums": {
+    "AppCheckerResult.sarif": "C8_OkbdQwa8g7udyIXTZfzZxtPUq1nMsuiiZ509djpSXJc=",
+    "Controls\\1.json": "C8_DxuHHiPeyyuFhYCYipObPGR/XuUWE04niIJno/Jsb9k=",
+    "Controls\\3.json": "C8_vyu/n0OoO07K4c0gsF7iHE9zQKCaV1dWlRdH9NNCgE8=",
+    "Header.json": "C8_O39EtaX1bq9qUqi14vd/qx7JVSXq7bkB7zG/pKCv54U=",
+    "Properties.json": "C8_jqvaQshQFS6CVkBbuEHiYWFfeNo0sb5MULtL1rP4RRA=",
+    "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
+    "References\\Resources.json": "C8_o8YVeUoBOQZMN+H7s7E9s1TDtWtrOeuiBA3wJXAjo2Y=",
+    "References\\Templates.json": "C8_8HzuIofC6GqA+q7l+4ypuih/SgQbLRMA0YCGKfrKVho=",
+    "References\\Themes.json": "C8_ICevVr7hFBimNEmK/6NDb4YE2H0Ri8BUiWgASaENw7U=",
+    "Resources\\PublishInfo.json": "C8_n5HcaPL15ry91Y+LqQB+rXIe2tp8gD6yhslsxqJFtmA="
+  },
+  "ClientStampedChecksum": "C8_HHM3hAOXUwu5TvuugPggJN3yErYLeD5aMCzOc3DLEJM=",
+  "ServerPerFileChecksums": {
+    "AppCheckerResult.sarif": "C8_OkbdQwa8g7udyIXTZfzZxtPUq1nMsuiiZ509djpSXJc=",
+    "Controls\\1.json": "C8_DxuHHiPeyyuFhYCYipObPGR/XuUWE04niIJno/Jsb9k=",
+    "Controls\\3.json": "C8_vyu/n0OoO07K4c0gsF7iHE9zQKCaV1dWlRdH9NNCgE8=",
+    "Header.json": "C8_O39EtaX1bq9qUqi14vd/qx7JVSXq7bkB7zG/pKCv54U=",
+    "Properties.json": "C8_jqvaQshQFS6CVkBbuEHiYWFfeNo0sb5MULtL1rP4RRA=",
+    "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
+    "References\\Resources.json": "C8_o8YVeUoBOQZMN+H7s7E9s1TDtWtrOeuiBA3wJXAjo2Y=",
+    "References\\Templates.json": "C8_8HzuIofC6GqA+q7l+4ypuih/SgQbLRMA0YCGKfrKVho=",
+    "References\\Themes.json": "C8_ICevVr7hFBimNEmK/6NDb4YE2H0Ri8BUiWgASaENw7U=",
+    "Resources\\PublishInfo.json": "C8_n5HcaPL15ry91Y+LqQB+rXIe2tp8gD6yhslsxqJFtmA="
+  },
+  "ServerStampedChecksum": "C8_HHM3hAOXUwu5TvuugPggJN3yErYLeD5aMCzOc3DLEJM="
+}
